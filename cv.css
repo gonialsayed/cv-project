@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Crete Round', serif;
+
+}
+
+#container{
+
+	background-color: #E5F9F5;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+
+
+}
+.image{
+	height: 180px;
+	width: 150px;
+	border-radius: 50%;
+	float: left;
+	margin: 10px;
+}
+#headerdescription{
+	padding: 40px;
+	float: left;
+
+}
+
+h1 h2 h3 h4 h5 h6{
+	color: #E5F9F5;
+}
+#contact{
+	float: right;
+	margin: 30px;
+	text-decoration: none;
+}
+
+.clear{
+	clear: both;
+}
+#hr{
+	border:solid 3px black;
+	
+	border-radius: 5px;
+}
+#contact a{
+	text-decoration: none;
+	color: black;
+}
+#contact a:hover{
+	text-decoration: underline;
+	color: orange;
+}
+
+#personalsection{
+
+
+}
+.leftdiv{
+		width: 30%;
+
+	font-size: 20px;
+	color: black;
+	margin-top: 15px;
+	float: left;
+
+
+}
+
+.rightdiv{
+		width: 70%;
+		
+	float: left;
+	margin-left: 350px;
+	font-size: 20px;
+
+}
+
+#content{
+
+
+}
+
+.sec1{
+	float: left;
+	width: 45%
+
+
+}
+.sec2{
+	float: left;
+	width: 45%
+
+}
+footer{
+	background-color: gray;
+	padding: 30px;
+
+}
+footer a{
+	size: 15px;
+	margin-left: 20px;
+	text-decoration: none;
+	color: black;
+
+}
+footer a:hover{
+	text-decoration: underline;
+	color: orange;
+}
+
